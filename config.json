@@ -1,0 +1,46 @@
+{
+    "auditory": "435",
+    "rtsp": "rtsp://172.18.191.201:554/user=admin_password=BhcGS01Q_channel=1_stream=0.sdp?real_stream",
+    "rtsp_435": "rtsp://172.18.191.137:554/user=admin_password=BhcGS01Q_channel=1_stream=0.sdp?real_stream",
+    "rtsp_505": "rtsp://172.18.191.137:554/user=admin_password=BhcGS01Q_channel=1_stream=0.sdp?real_stream",
+    "pc_path": "",
+    "zulip_private_status": true,
+    "zulip_stream_status": true,
+    "zulip_private_list": [
+        "1869",
+        "1773",
+        "1850"
+    ],
+    "zulip_stream": {
+        "stream": "desk_screen",
+        "topic": "\u0421\u043e\u0431\u044b\u0442\u0438\u044f \u043a\u0430\u043d\u0430\u043b\u0430"
+    },
+    "mail_status": true,
+    "mail_list": [
+        "vrpivnev@miem.hse.ru"
+    ],
+    "hotkeys": [
+        "ctrl",
+        "m"
+    ],
+    "hotkeys_interim": [
+        "ctrl",
+        "h"
+    ],
+    "stop_flag": false,
+    "info_435": {
+        "port": "8899",
+        "login": "admin",
+        "pwd": "BhcGS01Q"
+    },
+    "info_505": {
+        "port": 8899,
+        "login": "admin",
+        "pwd": "Supervisor"
+    },
+    "info_other": {
+        "port": 8899,
+        "login": "admin",
+        "pwd": "Supervisor"
+    }
+}
