@@ -55,16 +55,17 @@
     иконка для уведомления об неудачном соединении с камерой
 
 Установка:
-Cклонируйте репозиторий
- git clone https://git.miem.hse.ru/vrpivnev/opencv.git
-Установите все необходимые библиотеки из списка с помощью команды
- pip install -r requirement.txt
-Выполните инструкции по установке библиотеки onvif по ссылке
- onvif для python 3 https://github.com/FalkTannhaeuser/python-onvif-zeep
-При возникновении проблемы с путями (библиотека встала криво):
- Перейдите в папку окружения ~\.venv\Lib\onvif_zeep\Lib
- Перенесите папку wdsl на 1 вверх в папку ~\.venv\Lib\onvif_zeep
-Запустите файл main.py
+- Cклонируйте репозиторий:
+
+     git clone https://git.miem.hse.ru/vrpivnev/opencv.git
+- Установите все необходимые библиотеки из списка с помощью команды
+  
+     pip install -r requirement.txt
+- Выполните инструкции по установке библиотеки onvif по [ссылке](https://github.com/FalkTannhaeuser/python-onvif-zeep)
+- При возникновении проблемы с путями (библиотека встала криво):
+ - Перейдите в папку окружения ~\.venv\Lib\onvif_zeep\Lib
+ - Перенесите папку wdsl на 1 вверх в папку ~\.venv\Lib\onvif_zeep
+- Запустите файл main.py
 Приложение готово к использованию и появилось в трее
 
 
