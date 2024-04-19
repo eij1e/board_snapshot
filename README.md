@@ -57,7 +57,7 @@
 Установка:
 - Cклонируйте репозиторий:
 
-     git clone https://git.miem.hse.ru/vrpivnev/opencv.git
+     git clone https://github.com/eij1e/board_snapshot.git
 - Установите все необходимые библиотеки из списка с помощью команды
   
      pip install -r requirement.txt
